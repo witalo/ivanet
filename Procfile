@@ -1,0 +1,1 @@
+web: gunicorn ivanet.wsgi --log-file -
