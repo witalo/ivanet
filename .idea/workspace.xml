@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec5fc8fa-0cc5-4352-b200-f687bd792e66" name="Changes" comment="" />
+    <list default="true" id="ec5fc8fa-0cc5-4352-b200-f687bd792e66" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/accounts/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/accounts/migrations/0002_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/accounts/migrations/0003_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/clients/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/products/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/products/migrations/0002_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/providers/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/sales/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/sales/migrations/0002_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/users/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ivanet/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ivanet/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,11 +75,23 @@
       <updated>1696820902962</updated>
       <workItem from="1696820904041" duration="96000" />
       <workItem from="1696821015046" duration="439000" />
-      <workItem from="1696821491099" duration="3661000" />
+      <workItem from="1696821491099" duration="4649000" />
+      <workItem from="1696881150546" duration="3661000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
